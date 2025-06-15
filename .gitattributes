@@ -1,3 +1,5 @@
+.github/          export-ignore
+.org              export-ignore
 .gitignore        export-ignore
 .editorconfig     export-ignore
 .env              export-ignore

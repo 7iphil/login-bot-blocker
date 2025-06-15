@@ -2,7 +2,7 @@
 Contributors: philstudio
 Tags: login, security, honeypot, anti-bot, telegram
 Requires at least: 5.3
-Tested up to: 6.8
+Tested up to: 6.8.1
 Requires PHP: 7.2
 Stable tag: 1.0
 License: GPLv2 or later

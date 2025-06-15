@@ -3,14 +3,14 @@
  * Plugin Name:       Login Bot Blocker
  * Description:       Blocks login bots using a honeypot trap and sends alerts via Telegram.
  * Version:           1.0
- * Author:            philstudio
+ * Author:            iPhil
  * Author URI:        https://iphil.top
  * License:           GPLv2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       login-bot-blocker
  * Requires at least: 5.3
  * Requires PHP:      7.2
- * Tested up to:      6.8
+ * Tested up to:      6.8.1
  */
 
 defined('ABSPATH') || exit;
